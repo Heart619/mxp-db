@@ -37,11 +37,11 @@ select name, age, id from student where id = 12
 
 <insert statement>
 insert into <table name> values <value list>
-insert into student values 5 "Zhang Yuanjia" 22
+insert into student values 5 "Xiao Mao" 22
 
 <delete statement>
 delete from <table name> <where statement>
-delete from student where name = "Zhang Yuanjia"
+delete from student where name = "Xiao Mao"
 
 <update statement>
 update <table name> set <field name>=<value> [<where statement>]
