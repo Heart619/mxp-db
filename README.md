@@ -45,7 +45,7 @@ delete from student where name = "Xiao Mao"
 
 <update statement>
 update <table name> set <field name>=<value> [<where statement>]
-update student set name = "ZYJ" where id = 5
+update student set name = "MXP" where id = 5
 
 <where statement>
 where <field name> (>|<|=) <value> [(and|or) <field name> (>|<|=) <value>]
